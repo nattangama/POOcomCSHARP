@@ -1,7 +1,0 @@
-namespace ExemploPOO. Modelos
-{
-     classe pública Aluno : Pessoa
-    {
-        público int Nota { obter; pôr; }
-    }
-}
