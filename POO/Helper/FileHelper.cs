@@ -76,6 +76,7 @@ namespace ExemploPOO.Helper
                     stream.WriteLine(linha);
                 }
             }
+            
         }
 
         public void LerArquivo(string caminho)
