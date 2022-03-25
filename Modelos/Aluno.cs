@@ -11,4 +11,5 @@ namespace ExemploPOO.Models
             Console.WriteLine($"Olá, meu nome é {Nome} e sou um aluno nota {Nota}");
         }
     }
+    
 }
