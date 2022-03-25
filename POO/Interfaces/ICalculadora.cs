@@ -15,4 +15,5 @@ namespace ExemploPOO.Interfaces
              return num1 / num2;
          }
     }
+    
 }
